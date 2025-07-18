@@ -14,7 +14,7 @@
 		"ejs": "^3.1.10",
 		"express": "^5.1.0",
 		"got": "^14.4.7",
-		"morgan": "^1.10.0"
+		"morgan": "^1.10.1"
 	},
 	"devDependencies": {
 		"dotenv": "^17.2.0"
